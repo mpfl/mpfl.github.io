@@ -6,7 +6,7 @@ tags:
   - diving
   - photography
 header:
-  image: /assets/images/nudibranch1.jpg)
+  image: /assets/images/nudibranch1.jpg
   caption: Ceratosoma amoenum
 
 ---
