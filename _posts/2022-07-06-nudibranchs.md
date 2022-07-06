@@ -6,9 +6,8 @@ tags:
   - diving
   - photography
 header:
-  image: /assets/images/nudibranch1.jpg
-  caption: Ceratosoma amoenum
-
+  image: /assets/images/2022-07-06-nudibranchs-header.jpg
+  caption: Austraeolis ornata
 ---
 
 I used to have a page dedicated to nudibranchs on my website.
