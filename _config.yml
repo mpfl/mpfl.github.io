@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Matthias Liffers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "\[məti&#720;əs\] / Never send a human to do a computer's job / Opinions are my own etc."
+  bio    : "[məti&#720;əs] / Never send a human to do a computer's job / Opinions are my own etc."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
