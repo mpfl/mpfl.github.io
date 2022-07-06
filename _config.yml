@@ -16,7 +16,7 @@
 title: Miscellanea
 email: m@tthi.as
 description: >- # this means to ignore newlines until "baseurl:"
-  \[məti\&#720;əs\] / Never send a human to do a computer's job / Opinions are my own etc.
+  \[məti&#720;əs\] / Never send a human to do a computer's job / Opinions are my own etc.
 twitter_username: mpfl
 github_username: mpfl
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Matthias Liffers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "\[mətiːəs\] / Never send a human to do a computer's job / Opinions are my own etc."
+  bio    : "\[məti&#720;əs\] / Never send a human to do a computer's job / Opinions are my own etc."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
