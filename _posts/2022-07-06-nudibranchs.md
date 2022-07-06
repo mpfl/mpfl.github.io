@@ -7,6 +7,7 @@ tags:
   - photography
 header:
   image: /assets/images/nudibranch1.jpg)
+  caption: Ceratosoma amoenum
 
 ---
 
