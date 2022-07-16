@@ -5,7 +5,7 @@ categories:
 tags:
   - computers
 header:
-  image: 2022-07-16-header.png
+  image: /assets/images/2022-07-16-header.png
   caption: Linux terminal
 ---
 
