@@ -17,7 +17,6 @@ title: Miscellanea
 email: m@tthi.as
 description: >- # this means to ignore newlines until "baseurl:"
   \[məti&#720;əs\] / Never send a human to do a computer's job / Opinions are my own etc.
-twitter_username: mpfl
 github_username: mpfl
 minimal_mistakes_skin: default
 search: true
@@ -66,9 +65,9 @@ author:
     - label: "nudi.app"
       icon: "fas fa-fw fa-link"
       url: "https://nudi.app/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mpfl"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.tthi.as/@m"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mpfl"
@@ -78,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mpfl"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.tthi.as/@m"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mpfl"
