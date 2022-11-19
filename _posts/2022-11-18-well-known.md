@@ -37,7 +37,6 @@ services:
       - "traefik.enable=true"
       - "traefik.http.routers.wellknown.entrypoints=websecure"
       - "traefik.http.routers.wellknown.rule=(Host(`tthi.as`))"
-      - "traefik.http.routers.wellknown.service=wellknown"
       - "traefik.http.routers.wellknown.tls.certresolver=letsencrypt"
       - 'traefik.http.routers.wellknown.tls.domains[0].main=tthi.as'
       - "traefik.http.services.wellknown.loadbalancer.server.port=80"
