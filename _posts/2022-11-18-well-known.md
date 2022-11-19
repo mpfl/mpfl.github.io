@@ -11,7 +11,7 @@ tags:
 
 Quite a few years ago I met a [travel agent whose email address was `tr@vel.com.au`](https://www.globallink.com.au/contact-us/).
 
-He inspired me to look at interesting domains and, to my great delight, American Samoa let me register tthi.as - resulting in my website at `https://ma.tthi.as' and my email address of `m@tthi.as`.
+He inspired me to look at interesting domains and, to my great delight, American Samoa let me register tthi.as - resulting in my website at `https://ma.tthi.as` and my email address of `m@tthi.as`.
 
 More recently I've become interested in open and federated social networks, resulting in the great usernames of `ma:tthi.as` and `@m@tthi.as` on Matrix and Mastodon, respectively. I'm running a server for each in Docker on a server in my store room.
 
@@ -38,8 +38,8 @@ services:
       - "traefik.http.routers.wellknown.entrypoints=websecure"
       - "traefik.http.routers.wellknown.rule=(Host(`tthi.as`))"
       - "traefik.http.routers.wellknown.service=wellknown"
-      - "traefik.http.routers.matrix.tls.certresolver=letsencrypt"
-      - 'traefik.http.routers.matrix.tls.domains[0].main=tthi.as'
+      - "traefik.http.routers.wellknown.tls.certresolver=letsencrypt"
+      - 'traefik.http.routers.wellknown.tls.domains[0].main=tthi.as'
       - "traefik.http.services.wellknown.loadbalancer.server.port=80"
       - "traefik.docker.network=web"
 
