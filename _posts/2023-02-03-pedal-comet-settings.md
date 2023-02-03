@@ -9,8 +9,8 @@ tags:
 #  caption: Calcinus dapsiles
 ---
 
-The [Pedal Comet]{https://www.99bikes.com.au/pedal-comet-st-electric-cruiser-bike-black-orange} is an inexpensive ebike
-from [99 Bikes]{https://www.99bikes.com.au/}, a chain of bicycle stores in Australia and New Zealand.
+The [Pedal Comet](https://www.99bikes.com.au/pedal-comet-st-electric-cruiser-bike-black-orange) is an inexpensive ebike
+from [99 Bikes](https://www.99bikes.com.au/), a chain of bicycle stores in Australia and New Zealand.
 
 ![Pedal Comet bike](/assets/images/pedal-comet.png)
 
