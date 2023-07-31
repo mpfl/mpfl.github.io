@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Matthias Liffers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "<a href="https://ma.tthi.as/about/#how-to-pronounce-my-name">[məti&#720;əs]</a> / Never send a human to do a computer's job / Opinions are my own etc."
+  bio    : "<a href='https://ma.tthi.as/about/#how-to-pronounce-my-name'>[məti&#720;əs]</a> / Never send a human to do a computer's job / Opinions are my own etc."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
