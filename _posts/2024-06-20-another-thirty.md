@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - blogjune
+  - vienna
 ---
 
 Our first day in Vienna marked another thirty two thousand steps (give or take a hundred). I

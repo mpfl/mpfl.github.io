@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - blogjune
+  - vienna
 ---
 
 I'm sitting in my hotel room, dressed to go to [parkrun](https://www.parkrun.com/). I like to

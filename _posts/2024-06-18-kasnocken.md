@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - blogjune
+  - salzburg
 ---
 
 This trip has been a little unlike our usual style.
